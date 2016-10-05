@@ -1,0 +1,35 @@
+body {
+	color: #ffffff;
+	background-color: black;
+	margin: 0px;
+	cursor: pointer;
+	overflow: hidden;
+}
+.top {
+	position: absolute;
+	top:2%;
+	left: 2%;
+	z-index: 9999;
+	font-size: 80px;
+	font-family: 'Baloo Bhai';
+}
+.botton {
+	position: absolute;
+	right: 2%;
+	bottom: 2%;
+	z-index: 9999;
+	font-family: 'Baloo Bhai';
+}
+button{
+	position: absolute;
+	right: 2%;
+	top: 2%;
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    z-index: 9999;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Baloo Bhai';
+}
